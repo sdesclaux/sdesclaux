@@ -1,8 +1,13 @@
 ### Hi there ! Bonjour ! 👋
-I'm Simon Desclaux, Tech Lead engineer at Peaksys.
+I'm Simon Desclaux, currently Tech Lead engineer at <a href="https://fr.linkedin.com/company/peaksys">Peaksys</a>, based in Bordeaux.
 
  <!-- About section -->
-✨ I'm a back-end engineer focused on speeding up the web and reducing resource usage for an optimal and eco-friendly online experience.
+ ## ⚡️ A Few Quick Facts
+ <ul>
+<li>✨ I'm a back-end engineer focused on speeding up the web and reducing resource usage for an optimal and eco-friendly online experience.</li>
+<li>🌱 I’m currently learning about Astro, Azure Static Web Apps and Redis.</li>
+<li>🔭 I’m also exploring AI and its possibilities.</li>
+ </ul>
 
 ## 💻 My Tech Stack:
 [![C#, .Net, MongoDb, Kafka](https://skillicons.dev/icons?i=cs,dotnet,mongodb,kafka)]()
