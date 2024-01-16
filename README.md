@@ -5,7 +5,7 @@ I'm Simon Desclaux, Tech Lead engineer at Peaksys.
 ✨ I'm a back-end engineer focused on speeding up the web and reducing resource usage for an optimal and eco-friendly online experience.
 
 ## 💻 My Tech Stack:
-[![C#, .Net, MongoDb, Kafka](https://skillicons.dev/icons?i=cs,dotnet,mongodb,kafka)](https://skillicons.dev)
+[![C#, .Net, MongoDb, Kafka](https://skillicons.dev/icons?i=cs,dotnet,mongodb,kafka)]()
 
 ### 📫 How to reach me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/simondesclaux) &nbsp;
